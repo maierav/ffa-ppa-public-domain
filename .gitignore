@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+__pycache__/
+nilearn_data/
+.DS_Store
